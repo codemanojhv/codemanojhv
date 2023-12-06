@@ -31,9 +31,9 @@ I'm proficient in the following programming languages:
 
 I'm working on a few projects, including:
 
-### [Project 1: Flutter Mobile App](link-to-project1)
+### [Project 1: Flutter Mobile App](https://github.com/codemanojhv/unit_x)
 
-- Description: A showcase of Flutter features and best practices.
+- Description: a app which can manage shedules , timetables and reminders perfectly
 - Technologies: ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### [Project 2: AI Chatbot](link-to-project2)
