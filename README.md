@@ -45,6 +45,8 @@ I'm working on a few projects, including:
 ## Connect with Me
 
 - 📧 Email: manojhv01@gmail.com
+[New Doc 12-17-2023 19.05.pdf](https://github.com/codemanojhv/codemanojhv/files/13710583/New.Doc.12-17-2023.19.05.pdf)
+[ECE (INCOMPLETE VERSION).pdf](https://github.com/codemanojhv/codemanojhv/files/13710577/ECE.INCOMPLETE.VERSION.pdf)
 
 
 I'm always open to connecting with fellow students, tech enthusiasts, and potential collaborators. Let's learn and grow together!
