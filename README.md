@@ -1,52 +1,168 @@
-# 👋 Hello, I'm Manoj!
+````md
+<!-- Hero -->
 
-I'm a student currently pursuing my studies at Presidency University . I have a passion for technology, particularly in the realms of mobile app development and artificial intelligence.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Manoj+H+V;Building+AI+Products;Founder+%40+Rarestar;Creator+of+Rehai+and+Hytrax" />
+</p>
 
-## Academic Background
+<h1 align="center">Hi, I'm Manoj 👋</h1>
 
-- 📚 Currently pursuing Computer science Engineering
-- 📍 Located in Bengaluru
+<p align="center">
+Computer Science Engineering Student • AI Builder • Startup Founder
+</p>
 
-## Interests
+<p align="center">
+Building products that solve real problems.
+</p>
 
-I'm deeply interested in:
+---
 
-- 🚀 Flutter app development
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning
+# 🚀 Current Focus
 
-## Programming Languages
+- 🧠 Building **Rehai**, an AI-powered neurorehabilitation platform
+- ⚡ Building **Hytrax**, a local-first memory layer for AI coding agents
+- 🎨 Growing **Rarestar Studio**
+- 📚 Exploring LLMs, AI Systems and Developer Tools
 
-I'm proficient in the following programming languages:
+---
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+# 🗺️ What I'm Building
 
-## Projects
+```mermaid
+mindmap
+  root((Manoj))
+    AI
+      Rehai
+      Enterprise Knowledge Hub
+    Developer Tools
+      Hytrax
+    Products
+      UNIT-X
+    Startup
+      Rarestar Studio
+````
 
-I'm working on a few projects, including:
+---
 
-### [Project 1: Flutter Mobile App UNIT-X](https://github.com/codemanojhv/unit_x)
+# 📦 Latest Projects
 
-- Description: a app which can manage shedules , timetables and reminders perfectly
-- Technologies: ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+| Project                         | Description                                                |
+| ------------------------------- | ---------------------------------------------------------- |
+| 🧠 **Rehai**                    | AI-powered speech & cognitive neurorehabilitation platform |
+| ⚡ **Hytrax**                    | Local-first memory for AI coding agents                    |
+| 🏢 **Enterprise Knowledge Hub** | Enterprise document intelligence system                    |
+| 🎨 **Rarestar Studio**          | Design & software studio                                   |
+| 📱 **UNIT-X**                   | Flutter productivity & timetable app                       |
 
-### [Project 2: AI Chatbot](link-to-project2)
+---
 
-- Description: An AI-powered assistant built into a Flutter app.
-- Technologies: ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+# 💻 Tech Stack
 
+```text
+Languages
+Python • Java • C++ • Dart • JavaScript • TypeScript
 
-## Connect with Me
+Frontend
+React • Next.js • Flutter • HTML • CSS • Tailwind CSS
 
-- 📧 Email: manojhv01@gmail.com
-[New Doc 12-17-2023 19.05.pdf](https://github.com/codemanojhv/codemanojhv/files/13710583/New.Doc.12-17-2023.19.05.pdf)
-[ECE (INCOMPLETE VERSION).pdf](https://github.com/codemanojhv/codemanojhv/files/13710577/ECE.INCOMPLETE.VERSION.pdf)
+Backend
+Supabase • PostgreSQL • Node.js
 
+Currently Exploring
+LLMs • RAG • LangChain • AI Agents
+```
 
-I'm always open to connecting with fellow students, tech enthusiasts, and potential collaborators. Let's learn and grow together!
+---
+
+# ⚙️ Build Philosophy
+
+```mermaid
+graph LR
+
+A[Idea] --> B[Prototype]
+B --> C[Ship Fast]
+C --> D[Collect Feedback]
+D --> E[Improve]
+E --> B
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codemanojhv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codemanojhv&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codemanojhv&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Requires the Platane/snk GitHub Action.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/codemanojhv/codemanojhv/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎮 Mini Game
+
+<details>
+<summary><b>🐞 Find the Bug</b></summary>
+
+Can you spot the bug?
+
+```cpp
+if(name = "Manoj"){
+    cout << "Hello!";
+}
+```
+
+<details>
+<summary>Answer</summary>
+
+You used **=** (assignment).
+
+It should be:
+
+```cpp
+if(name == "Manoj"){
+    cout << "Hello!";
+}
+```
+
+</details>
+
+</details>
+
+---
+
+# 📈 2026 Goals
+
+* 🚀 Launch Rehai publicly
+* 🌍 Release Hytrax as open source
+* 💼 Scale Rarestar Studio
+* 🤝 Contribute more to open source
+* 🧠 Learn something new every week
+
+---
+
+# 📫 Connect
+
+📧 **[manojhv01@gmail.com](mailto:manojhv01@gmail.com)**
+
+---
+
+<p align="center">
+
+*"Build. Ship. Learn. Repeat."*
+
+</p>
+```
