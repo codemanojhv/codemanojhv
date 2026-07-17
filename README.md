@@ -1,142 +1,139 @@
-````md
-<!-- Hero -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Manoj+H+V;Building+AI+Products;Founder+%40+Rarestar;Creator+of+Rehai+and+Hytrax" />
-</p>
+# Manoj H V
 
-<h1 align="center">Hi, I'm Manoj 👋</h1>
+### Building AI products, developer tools, and startups.
 
-<p align="center">
-Computer Science Engineering Student • AI Builder • Startup Founder
-</p>
+Bengaluru, India • Founder @ Rarestar Studio
 
-<p align="center">
-Building products that solve real problems.
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=flat-square)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj-blue?style=flat-square)]()
+[![Email](https://img.shields.io/badge/Email-manojhv01@gmail.com-red?style=flat-square)](mailto:manojhv01@gmail.com)
+
+</div>
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- 🧠 Building **Rehai**, an AI-powered neurorehabilitation platform
-- ⚡ Building **Hytrax**, a local-first memory layer for AI coding agents
-- 🎨 Growing **Rarestar Studio**
-- 📚 Exploring LLMs, AI Systems and Developer Tools
+```text
+🧠 Rehai
+AI-powered neurorehabilitation platform.
 
----
+⚡ Hytrax
+Local-first memory for AI coding agents.
 
-# 🗺️ What I'm Building
+🏢 Rarestar Studio
+Designing products and building software.
 
-```mermaid
-mindmap
-  root((Manoj))
-    AI
-      Rehai
-      Enterprise Knowledge Hub
-    Developer Tools
-      Hytrax
-    Products
-      UNIT-X
-    Startup
-      Rarestar Studio
-````
+📖 Learning
+AI Systems • LLMs • RAG • Product Engineering
+```
 
 ---
 
-# 📦 Latest Projects
+## 📌 Featured Projects
 
-| Project                         | Description                                                |
-| ------------------------------- | ---------------------------------------------------------- |
-| 🧠 **Rehai**                    | AI-powered speech & cognitive neurorehabilitation platform |
-| ⚡ **Hytrax**                    | Local-first memory for AI coding agents                    |
-| 🏢 **Enterprise Knowledge Hub** | Enterprise document intelligence system                    |
-| 🎨 **Rarestar Studio**          | Design & software studio                                   |
-| 📱 **UNIT-X**                   | Flutter productivity & timetable app                       |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🧠 Rehai | AI Neurorehabilitation Platform | 🚧 Building |
+| ⚡ Hytrax | AI Coding Memory Layer | 🚧 Building |
+| 📄 Enterprise Knowledge Hub | Enterprise AI Document Intelligence | 🚧 MVP |
+| 🎨 Rarestar Studio | Agency & Product Studio | ✅ Live |
+| 📱 UNIT-X | Flutter Productivity App | ✅ Complete |
 
 ---
 
-# 💻 Tech Stack
+## 🧰 Tech
 
 ```text
 Languages
-Python • Java • C++ • Dart • JavaScript • TypeScript
+Python • TypeScript • Java • C++ • Dart
 
 Frontend
-React • Next.js • Flutter • HTML • CSS • Tailwind CSS
+Next.js • React • Flutter • TailwindCSS
 
 Backend
-Supabase • PostgreSQL • Node.js
+Node.js • Supabase • PostgreSQL
 
-Currently Exploring
-LLMs • RAG • LangChain • AI Agents
+AI
+LangChain • OpenAI • Gemini • RAG
 ```
 
 ---
 
-# ⚙️ Build Philosophy
-
-```mermaid
-graph LR
-
-A[Idea] --> B[Prototype]
-B --> C[Ship Fast]
-C --> D[Collect Feedback]
-D --> E[Improve]
-E --> B
-```
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codemanojhv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codemanojhv&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codemanojhv&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=codemanojhv&theme=transparent&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemanojhv&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🎯 2026 Goals
 
-> Requires the Platane/snk GitHub Action.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/codemanojhv/codemanojhv/output/github-contribution-grid-snake.svg" />
-</p>
+- Ship Rehai MVP
+- Launch Hytrax
+- Grow Rarestar Studio
+- Publish open-source projects
+- Build products people love
 
 ---
 
-# 🎮 Mini Game
+## 🎮 Tiny Terminal
+
+```bash
+$ whoami
+
+> Manoj H V
+
+$ currently-building
+
+✔ Rehai
+✔ Hytrax
+✔ Rarestar Studio
+
+$ motto
+
+Build → Ship → Learn → Repeat
+```
+
+---
 
 <details>
-<summary><b>🐞 Find the Bug</b></summary>
 
-Can you spot the bug?
+<summary>🐞 Find the Bug</summary>
 
 ```cpp
-if(name = "Manoj"){
-    cout << "Hello!";
+if(name = "Manoj")
+{
+    cout << "Hello";
 }
 ```
 
+---
+
 <details>
+
 <summary>Answer</summary>
 
-You used **=** (assignment).
-
-It should be:
-
 ```cpp
-if(name == "Manoj"){
-    cout << "Hello!";
-}
+if(name == "Manoj")
 ```
+
+Using `=` assigns a value.
+
+Using `==` compares values.
 
 </details>
 
@@ -144,25 +141,8 @@ if(name == "Manoj"){
 
 ---
 
-# 📈 2026 Goals
+<div align="center">
 
-* 🚀 Launch Rehai publicly
-* 🌍 Release Hytrax as open source
-* 💼 Scale Rarestar Studio
-* 🤝 Contribute more to open source
-* 🧠 Learn something new every week
+*"Building things that make people's lives a little better."*
 
----
-
-# 📫 Connect
-
-📧 **[manojhv01@gmail.com](mailto:manojhv01@gmail.com)**
-
----
-
-<p align="center">
-
-*"Build. Ship. Learn. Repeat."*
-
-</p>
-```
+</div>
